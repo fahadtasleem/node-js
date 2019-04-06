@@ -1,0 +1,19 @@
+{
+    "name": "geo",
+    "version": "1.0",
+    "author": {
+        "name": "fahad"
+    },
+    "displayName": "Geo",
+    "dependencies": {
+        "fibers": "^3.1.1",
+        "ip": "^1.1.5",
+        "maxmind": "^2.7.0",
+        "mongodb": "^3.1.10",
+        "netmask": "^1.0.6",
+        "node-forge": "^0.7.6",
+        "npm-forge": "0.7.6",
+        "openssl": "^1.1.0",
+        "urlsafe-base64": "^1.0.0"
+    }
+}
