@@ -6,6 +6,7 @@
     },
     "displayName": "Geo",
     "dependencies": {
+        "amqplib": "^0.5.3",
         "fibers": "^3.1.1",
         "ip": "^1.1.5",
         "maxmind": "^2.7.0",
